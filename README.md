@@ -1,0 +1,2 @@
+- Repo này là note site tổng hợp những gì tớ đang học, set public vì có thể nó sẽ có ích cho mọi người
+- Free to command because it makes me better 💙 Thanks a lot 

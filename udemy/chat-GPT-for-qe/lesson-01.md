@@ -1,6 +1,6 @@
 > https://www.udemy.com/course/manual-and-automation-software-testing-with-help-of-chatgpt/learn/lecture/43342974#overview
 
-> Dùng ChatGPT để 
+> Dùng ChatGPT để phân tích business requirement
 
 # Chat GPT cần gì để phân tích yêu cầu một cách tối ưu? 
 - Cung cấp insight càng rõ ràng càng tốt
